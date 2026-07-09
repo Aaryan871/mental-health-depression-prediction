@@ -42,7 +42,6 @@ Mental-Health-Depression-Prediction/
 │   ├── mental_health_model.pkl
 │   └──label_encoder.pkl
 ├── app.py
-├── requirements.txt
 ├── README.md
 └── images/
 ```
@@ -105,12 +104,6 @@ Go to project folder
 cd mental-health-depression-prediction
 ```
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 Run the Streamlit application
 
 ```bash
@@ -148,17 +141,6 @@ Add screenshots of your Streamlit application here.
   <img src="mental_health.gif" alt="mental_health" width="900">
 </p>
 
-
----
-
-## 🔮 Future Improvements
-
-- Deep Learning Model
-- Hyperparameter Tuning
-- Model Explainability (SHAP)
-- API Deployment using FastAPI
-- Docker Support
-- Cloud Deployment
 
 ---
 
