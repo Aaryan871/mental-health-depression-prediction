@@ -144,12 +144,10 @@ Some examples of features used in prediction include:
 
 Add screenshots of your Streamlit application here.
 
-```
 <p align="center">
   <img src="mental_health.gif" alt="mental_health" width="900">
 </p>
 
-```
 
 ---
 
